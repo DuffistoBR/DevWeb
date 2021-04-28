@@ -1,0 +1,14 @@
+body{
+    font-family: helvetica, sans-serif;
+}
+
+div {
+    border: 2px solid red;
+    width: 100px;
+    height: 100px;
+}
+
+img{
+    width: inherit;
+    height: inherit;
+}
